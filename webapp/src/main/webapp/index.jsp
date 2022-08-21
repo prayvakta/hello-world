@@ -32,7 +32,7 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-   <h1> Updated on August 21, 2022 </h1>
+   <h1> Updated on August 21 - v2, 2022 </h1>
 
   
 </form>
